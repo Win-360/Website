@@ -1,0 +1,35 @@
+body{
+    background-color: darkgray;
+    font-family: 'Convection UI', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dialog{
+    margin: auto;
+    background-color: black;
+    color: white;
+    width: 75%;
+    padding: 20px 30px;
+    border-radius: 20px;
+}
+
+.top{
+    display: flex;
+}
+
+.title{
+    width: 100%;
+}
+
+.latest{
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 1px 20px;
+    border-radius: 20px;
+}
+
+.download{
+    display: flex;
+}
+
+.download p{
+    padding: 0px 0px 0px 0px;
+}
